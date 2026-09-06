@@ -115,7 +115,8 @@
     "circuit-json": "0.0.479",
     "circuit-json-to-kicad": "file:/Users/kgoh/Documents/MBA_M1/Projects/mushroom_game/tscircuit-forks/circuit-json-to-kicad",
     "@tscircuit/core": "file:/Users/kgoh/Documents/MBA_M1/Projects/mushroom_game/tscircuit-forks/tscircuit-core",
-    "@tscircuit/eval": "file:/Users/kgoh/Documents/MBA_M1/Projects/mushroom_game/tscircuit-forks/tscircuit-eval"
+    "@tscircuit/eval": "file:/Users/kgoh/Documents/MBA_M1/Projects/mushroom_game/tscircuit-forks/tscircuit-eval",
+    "tscircuit": "file:/Users/kgoh/Documents/MBA_M1/Projects/mushroom_game/tscircuit-forks/tscircuit-lib"
   },
   "scripts": {
     "start": "bun run dev",
